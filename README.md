@@ -23,7 +23,7 @@ In music, short-term features such as pitch and tempo constitute long-term seman
 
 # Datasets
 
-We used GTZAN dataset and Melon Playlist dataset. We partitioned the training and test sets following the k-fold (k==10) process. You can use our 10-fold information at [here](  )(GTZAN) and [here](  )(Melon Playlist).
+We used GTZAN dataset and Melon Playlist dataset. We partitioned the training and test sets following the k-fold (k==10) process. You can use our 10-fold information at [here]( https://github.com/Jungwoo4021/ECAPAwithCCSandFSA/tree/main/dataset_kfold/GTZAN )(GTZAN) and [here]( https://github.com/Jungwoo4021/ECAPAwithCCSandFSA/tree/main/dataset_kfold/Melon )(Melon Playlist).
 
 > If you want to make new 10-fold information, just run `/GTZAN/k_fold.py` in GTZAN dataset or `Melon/k_fold.py` in Melon Playlist dataset.
 
