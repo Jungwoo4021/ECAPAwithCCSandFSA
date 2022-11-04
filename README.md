@@ -106,3 +106,6 @@ Please cite this paper if you make use of the code.
 @article{
 }
 ```
+
+# Reference
+We implemented the BBNN system with reference to [here]( https://arxiv.org/pdf/1901.08928.pdf ). The original BBNN code can be found [here]( https://github.com/CaifengLiu/music-genre-classification ).
